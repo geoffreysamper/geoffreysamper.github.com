@@ -1,5 +1,10 @@
+# My Blog 
 
-# Jekyll-Bootstrap-3
+This blog is based on Jekyll-Bootstrap-3
+
+
+
+## Jekyll-Bootstrap-3
 
 Easily publish Bootstrap 3 powered Jekyll sites.  
 Fork of the well known jekyll-bootstrap (v0.3.0). Original project is [here](https://github.com/plusjade/jekyll-bootstrap).  
