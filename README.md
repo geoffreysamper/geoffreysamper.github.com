@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll-Bootstrap-3
 
 Easily publish Bootstrap 3 powered Jekyll sites.  
@@ -30,3 +31,10 @@ For original project's usage and documentation please see: <http://jekyllbootstr
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+=======
+geoffreysamper.github.com
+=========================
+>>>>>>> 96c790d4b76db8410a109a54fb1f37c2f4c716fe
+
+running github on windows
+https://github.com/juthilo/run-jekyll-on-windows/
