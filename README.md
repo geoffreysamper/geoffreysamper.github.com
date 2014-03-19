@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Jekyll-Bootstrap-3
 
 Easily publish Bootstrap 3 powered Jekyll sites.  
@@ -38,3 +39,6 @@ geoffreysamper.github.com
 
 running github on windows
 https://github.com/juthilo/run-jekyll-on-windows/
+=======
+my first attempt to create a blog
+>>>>>>> 2840f2fa6bf9182661956e7139ff3643bdccc6e0
